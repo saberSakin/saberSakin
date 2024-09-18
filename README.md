@@ -1,3 +1,6 @@
+<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF" style="width:100%; height:auto;" />
+
+
 # 💫 About Me:
 🛠️ I’m currently working on:<br>Web development and machine learning.<br><br>🤝 I’m looking to collaborate on:<br>Innovative projects that blend web technologies with AI and automation.<br><br>🧠 I’m doing research on:<br>Deep learning and their application in real life cases.<br><br>🌱 I’m currently learning:<br>Advanced deep learning techniques and optimization strategies for web performance.<br><br>💬 Ask me about:<br>Web development frameworks, software architecture, and AI model deployment.<br><br>
 
