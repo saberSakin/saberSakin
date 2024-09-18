@@ -1,4 +1,4 @@
-<img src="https://github.com/saberSakin/saberSakin/blob/main/code-ezgif.com-crop.gif" alt="GIF" style="width:100%; height:auto;" />
+<img src="https://github.com/saberSakin/saberSakin/blob/main/Banner.gif" alt="GIF" style="width:100%; height:auto;" />
 
 
 
