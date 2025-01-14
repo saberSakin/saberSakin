@@ -17,7 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saberSakin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saberSakin&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/saberSakin&count_bg=%237627C0&title_bg=%23474747&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
